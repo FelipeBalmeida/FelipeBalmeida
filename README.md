@@ -5,7 +5,7 @@
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeBalmeida&show_icons=true&theme=radical&cache_seconds=1800)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBalmeida&layout=pie)](https://github.com/anuraghazra/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBalmeida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Tecnologias que eu uso no meu dia
 
