@@ -19,4 +19,4 @@
 
 ### Contato
 
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipebezerradealmeida@gmail.com) : felipebezerradealmeida@gmail.com
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipebezerradealmeida27@gmail.com) : felipebezerradealmeida27@gmail.com
