@@ -10,7 +10,7 @@
 
 * 🎓 Estudante na Universidade Tecnológica Federal do Paraná (UTFPR).
 * 💻 Foco em desenvolvimento **Backend**, arquitetura **DevOps** e metodologias **Ágeis**.
-* 🚀 Experiência prática desenvolvendo APIs REST, sistemas de gestão integrados e automações utilizando Visão Computacional.
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
