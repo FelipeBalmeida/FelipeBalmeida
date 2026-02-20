@@ -14,7 +14,6 @@
 
 ## 🚀 Projetos em Destaque
 
-* **ILGproject (Sistema de Gestão):** Desenvolvimento de uma aplicação ERP do zero para controle financeiro, geração de notas/contratos e automação via WhatsApp.
 * **TibiaMNG:** Criação utilizando Python para análise de dados do jogo tibia.
 
 
